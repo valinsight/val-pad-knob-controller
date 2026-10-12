@@ -2,7 +2,7 @@
 
 A free control-surface component for TouchDesigner by [VAL](https://patreon.com/Valinsight).
 
-![VAL Pad & Knob Controller Preview](placeholder.gif) <!-- اگر اسکرین‌شات یا گیف دارید، می‌توانید آن را جایگزین کنید -->
+![VAL Pad & Knob Controller Preview](knob-pad.png) <!-- اگر اسکرین‌شات یا گیف دارید، می‌توانید آن را جایگزین کنید -->
 
 ---
 
