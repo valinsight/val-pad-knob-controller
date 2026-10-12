@@ -47,9 +47,14 @@ One `COMP` with 8 vertical sliders ("knobs") and 8 pads, laid out like a hardwar
 * **With MIDI:** 
   1. Create a `MIDI In CHOP` and connect your controller.
   2. Select the COMP, go to the **Setup** page, and drag your MIDI In CHOP into **MIDI Source**.
+  
   ![VAL Pad & Knob Controller Preview](psetup.png)
-  3. Move/press controls on your hardware once so they register in the CHOP, then select them from the dropdowns on the **Knobs** or **Pads** pages.
-  ![VAL Pad & Knob Controller Preview](pknob.png) ![VAL Pad & Knob Controller Preview](ppad.png)
+
+  4. Move/press controls on your hardware once so they register in the CHOP, then select them from the dropdowns on the **Knobs** or **Pads** pages.
+  
+  ![VAL Pad & Knob Controller Preview](parameters.jpg)
+  
+
 
 ---
 
